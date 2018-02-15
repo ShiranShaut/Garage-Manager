@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{7D06E22C-666C-4296-9D0E-B56BEDDA98DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageManagementSystem.ConsoleUI", "Ex03.GarageManagementSystem.ConsoleUI\Ex03.GarageManagementSystem.ConsoleUI.csproj", "{4C1692AC-7084-4AF6-917F-FEE86E065204}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D699C038-9081-4379-A378-944CE5702799}"
+	ProjectSection(SolutionItems) = preProject
+		C17 Ex03 Shiran 308018969 Noy 308121227.doc.docx = C17 Ex03 Shiran 308018969 Noy 308121227.doc.docx
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D06E22C-666C-4296-9D0E-B56BEDDA98DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D06E22C-666C-4296-9D0E-B56BEDDA98DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D06E22C-666C-4296-9D0E-B56BEDDA98DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D06E22C-666C-4296-9D0E-B56BEDDA98DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1692AC-7084-4AF6-917F-FEE86E065204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1692AC-7084-4AF6-917F-FEE86E065204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1692AC-7084-4AF6-917F-FEE86E065204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1692AC-7084-4AF6-917F-FEE86E065204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E7899B-9EC3-419F-A9FE-6204CE77527E}
+	EndGlobalSection
+EndGlobal

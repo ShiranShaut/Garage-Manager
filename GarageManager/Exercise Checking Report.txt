@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 308018969 - Shiran Shaut
+Second Student Details: 308121227- Noy Davidyan
+Delivery Date.........: 27 - August - 2017
+Delivered In Delay....: No
+Delay Reason..........: -
+Visual Studio Version.: 2017
+Comments..............: -
+========================End Exercise Checking Report========================
